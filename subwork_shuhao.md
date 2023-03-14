@@ -1,7 +1,11 @@
 # subwork\_Shuhao
 
 1. The initial page model is designed.
+
+
 <img width="1440" alt="截屏2023-03-14 22 13 42" src="https://user-images.githubusercontent.com/125537769/225046253-beaf5701-ed19-48fe-8618-8bf4868b1571.png">
+
+
 <img width="1430" alt="截屏2023-03-14 22 13 32" src="https://user-images.githubusercontent.com/125537769/225046307-366631a4-6f9d-473f-8017-42813546150c.png">
 
 2. Android Development Skills: ListView, RecyclerView
