@@ -5,4 +5,5 @@
 
 For the following weeks:
 1. Debug the subscribe function in MainActivity.java
-2. Learn some knowledge about TCP and LitePal
+2. Learn some knowledge about TCP (packet format, connection establishment, data transfer, and connection termination.
+3. Learn some knowledge about Litepal APIs and Kotlin.
