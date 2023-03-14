@@ -13,3 +13,10 @@
 Next Step:
 1. Learn more about UI functions to prepare for the updated design
 2. More Android Development Skills: Animation part
+
+
+<font color="red">feedback:
+- Page model requires Chinese and English displayed together. Or you can make option to change language like other apps. Do not include student ID. Beautify the app (previous demo is only for reference)
+- Suggestion: besides figma, you can also use android studio to drag the view to see the effect. Combine them together helps you design.
+- We don't need animation so far. **Polish your design and update, then work on implementing it next week.**
+</font>
