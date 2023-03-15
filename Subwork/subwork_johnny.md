@@ -2,6 +2,7 @@
   1. revised docker compose
   2. chose eclipse-mosquitto image as the base of MQTT server
   3. created the github orgnization
+  4. Orgnized the file structure of gitbook repo and updated the contents of gitbook page
 ## next step
   1. implement persistance storage (eclipse docs)
   2. connect MQTT to Database
