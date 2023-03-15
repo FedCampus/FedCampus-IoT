@@ -1,8 +1,10 @@
 # Table of contents
 
 * [Data Collection](README.md)
-* [Subworks](subworks.md)
-	* [Subwork Johnny](subwork\_johnny.md)
-	* [Subwork Shuhao](subwork\_shuhao.md)
-	* [Subwork Jingheng](subwork\_jingheng.md)
-* [Server Srtucture](Server\_Structure.md)
+* [Subworks](Subwork/subworks.md)
+	* [Subwork Johnny](Subwork/subwork\_johnny.md)
+	* [Subwork Shuhao](Subwork/subwork\_shuhao.md)
+	* [Subwork Jingheng](Subwork/subwork\_jingheng.md)
+* [Server](Server/server.md)
+	* [Server Srtucture](Server/Server\_Structure.md)
+	* [API](Server/API.md)
