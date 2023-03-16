@@ -22,6 +22,8 @@ This project implements an Android App to collect health and exercise data for F
 * Apollo server: [https://blog.csdn.net/weixin\_39808143/article/details/112576683](https://blog.csdn.net/weixin\_39808143/article/details/112576683)&#x20;
 * Ali Cloud: [https://help.aliyun.com/document\_detail/163032.html](https://help.aliyun.com/document\_detail/163032.html)
 * Health Kit: [https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/apply-kitservice-0000001050071707](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/apply-kitservice-0000001050071707)
+* Health Kit Data: [https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/overview-0000001147638696](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/overview-0000001147638696)
+* Health Kit Overview：[https://developer.huawei.com/consumer/cn/codelab/HMSHealthKit-StepCount/index.html#0]https://developer.huawei.com/consumer/cn/codelab/HMSHealthKit-StepCount/index.html#0
 * Semi-finished code
 
 {% embed url="https://github.com/Thea-Feng/FedC.git" %}

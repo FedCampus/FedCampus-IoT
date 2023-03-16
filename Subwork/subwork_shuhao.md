@@ -18,5 +18,6 @@ Next Step:
 <font color="red">feedback:
 - Page model requires Chinese and English displayed together. Or you can make option to change language like other apps. Do not include student ID. Beautify the app (previous demo is only for reference)
 - Suggestion: besides figma, you can also use android studio to drag the view to see the effect. Combine them together helps you design.
-- We don't need animation so far. **Polish your design and update, then work on implementing it next week.**
+- We don't need animation so far. 
+- Next task: polish demo of HealthKit by figma and work on implement them.
 </font>
