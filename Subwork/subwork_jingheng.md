@@ -10,5 +10,5 @@ For the following weeks:
 
 
 <font color="red">feedback:
-- You are on the right track but the progress is a little bit slow. Next week, please work on communication part (you can learn datastore later). Also, we do not use Kotlin. Reminder: Apollo server is only for simple test, we need to build a powerful server, which you can discuss with Johnny.
+- You are on the right track but the progress is a little bit slow. Next week, please work on communication part (you can learn datastore later). Reminder: Apollo server is only for simple test, we need to build a powerful server, which you can discuss with Johnny.
 </font>
