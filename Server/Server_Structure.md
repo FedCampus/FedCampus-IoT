@@ -10,7 +10,7 @@
 - **[eclipse-mosquitto](https://hub.docker.com/_/eclipse-mosquitto)** for MQTT Broker
 - **[postgres](https://hub.docker.com/_/postgres)** for orm DB system
 - Server Layer for passing DB calls and accessing different testing parameters **[Repo](https://github.com/FedCampus/IoT-Server) Has been created**
-- **[phpmyadmin](https://hub.docker.com/_/phpmyadmin)** for accessing DB for debug purposes
+- **[dpage/pgadmin4](https://hub.docker.com/r/dpage/pgadmin4)** for accessing DB for debug purposes
 ### API for access
 - This part is still a work in progress a Nginx Reverse proxy may be deployed for better avaliability and may also allow for easier TLS & authentication
 - This part will still be containerlized, but further research is needed
