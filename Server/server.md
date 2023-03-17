@@ -1,4 +1,4 @@
 # Server
-* [Server Provisiioning](Server/Server\_Provisioning.md)
-* [Server Srtucture](Server/Server\_Structure.md)
-* [API](Server/API.md)
+* [Server Provisiioning](Server\_Provisioning.md)
+* [Server Srtucture](Server\_Structure.md)
+* [API](API.md)

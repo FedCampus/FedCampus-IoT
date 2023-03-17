@@ -15,7 +15,7 @@
 
 - [Docker](https://docs.docker.com/engine/install/ubuntu/) host
 
-    The containers are introduced [here](Server/Server\_Structure.md).
+    The containers are introduced [here](Server\_Structure.md).
 - [Portainer](https://install.portainer.io/) for management of Docker Containers
 - [Ansible](https://docs.ansible.com/) for all automated jobs
 
