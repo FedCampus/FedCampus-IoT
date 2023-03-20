@@ -1,10 +1,10 @@
 # Server Structure
 
 ## Base layer
-- DKU VCM running ubuntu 22.04 LTS
+- DKU VCM running ubuntu 22.04.2 LTS
 - Docker CE with Docker compose
 ## Management layer
-- Portainer CE
+- Portainer BE (With free license)
 ## Service Layer
 ### Containers
 - **[eclipse-mosquitto](https://hub.docker.com/_/eclipse-mosquitto)** for MQTT Broker
