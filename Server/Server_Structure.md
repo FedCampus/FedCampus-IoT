@@ -15,9 +15,9 @@
 - This part is still a work in progress a Nginx Reverse proxy may be deployed for better avaliability and may also allow for easier TLS & authentication
 - This part will still be containerlized, but further research is needed
 ## Todo list
-- [ ] Decide on the Database Image to use
-- [ ] Provision the VM
-- [ ] Install Docker
-- [ ] Install Portainer and setup
+- [*] Decide on the Database Image to use
+- [*] Provision the VM
+- [*] Install Docker
+- [*] Install Portainer and setup
 - [ ] Develop the service layer
 - [ ] Decide on API
