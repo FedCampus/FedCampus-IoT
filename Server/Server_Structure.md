@@ -16,7 +16,7 @@
 - This part will still be containerlized, but further research is needed
 ## Todo list
 - [ ] Decide on the Database Image to use
-- [ ] Provision the VCM
+- [ ] Provision the VM
 - [ ] Install Docker
 - [ ] Install Portainer and setup
 - [ ] Develop the service layer
