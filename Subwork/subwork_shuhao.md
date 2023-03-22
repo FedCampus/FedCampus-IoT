@@ -21,3 +21,32 @@ Next Step:
 - We don't need animation so far. 
 - Next task: polish demo of HealthKit by figma and work on implement them.
 </font>
+
+
+# 2023.3.16-3.22 subwork\_Shuhao
+
+1. Information about data request has been recorded.
+<img width="764" alt="截屏2023-03-20 17 47 03" src="https://user-images.githubusercontent.com/125537769/226949120-6aec5dcf-b389-42a0-89eb-d1baf64068dd.png">
+<img width="918" alt="截屏2023-03-20 17 47 23" src="https://user-images.githubusercontent.com/125537769/226949142-bee853ab-2ba5-4dae-ac47-001fec2d2bea.png">
+
+2. Improved Page Demo
+
+<img width="1429" alt="截屏2023-03-22 23 04 09" src="https://user-images.githubusercontent.com/125537769/226950127-7015b1e5-e6ac-4c1d-a32d-97047f3b9405.png">
+<img width="1435" alt="截屏2023-03-22 23 04 19" src="https://user-images.githubusercontent.com/125537769/226950137-0d239c40-6a28-4d84-a162-2dcb3eb851ce.png">
+<img width="1435" alt="截屏2023-03-22 22 43 47" src="https://user-images.githubusercontent.com/125537769/226950160-40feb09d-2bf4-4470-af95-13a8878f2e73.png">
+<img width="1436" alt="截屏2023-03-22 22 44 01" src="https://user-images.githubusercontent.com/125537769/226950179-cd3d5184-881a-43e4-bbcf-71b5e35b6989.png">
+
+1. Added personal page and landing page
+2. According to Huawei data classification, the report is divided into health report and exercise report
+3. Both Chinese and English pages are included
+4. beautified with details and images
+
+
+Next Step:
+1. Add page switching function.
+2. Put the demo in the use of android studio
+3. Write a document to collect attributes and datatypes of each data
+4. The demo may still need polishing if more data need to be included
+
+
+
