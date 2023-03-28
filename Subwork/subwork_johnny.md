@@ -6,6 +6,13 @@
   5. Installed the [VM Hypervisor](../Server/Server_Provisioning.md)
   6. Requested IP/FQDN from IT
   7. Started on "Server" page of gitbook (need help from [@Jiaqi](https://github.com/luuvy757))
+  ### Update March 28th
+  - Finished work dividion with Steven He
+  - Deployed a working MQTT broker for development
+  - Deployed the database for development
+  - Implimented remote management
+  - Finished persistant IP and FQDN setup on the VMs
+  - Rekquested and obtained domain [fedcampus.eu.org](fedcampus.eu.org)
 ## next step
   1. implement persistance storage (eclipse docs)
   > checked and this part should be implimented on MQTT client side
