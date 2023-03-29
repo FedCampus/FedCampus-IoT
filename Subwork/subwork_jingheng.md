@@ -10,7 +10,7 @@ For the following weeks:
 
 
 <font color="red">feedback:
-- You are on the right track but the progress is a little bit slow. Next week, please work on communication part (you can learn datastore later). You need to know the basic mechanism of communication, which you will implement later.
+- Next week, please work on communication part (you can learn datastore later). You need to know the basic mechanism of communication, which you will implement later.
 - Next task: please setup HealthKit environment
 </font>
 
@@ -39,3 +39,17 @@ For the following weeks:
 - Register real-time data listener
 - read real-time data
 - close real-time data listener.
+
+Update Mar 29th:
+- Learned the basics of Android app development, including concepts such as Activity, layout, and event handling, laying the foundation for future app development.
+- Gained a deep understanding of the TCP protocol, including aspects such as packet format, connection establishment, data transfer, and connection termination. Studied how to implement TCP communication functionality in Android apps.
+- Read the HUAWEI Health development documentation, learned how to integrate HUAWEI Health-related features into Android apps. Understood the application and configuration process of Health Kit services.
+- Learned the Kotlin programming language, became familiar with its basic syntax and programming paradigms. Mastered the method of writing code in Kotlin for Android apps.
+- Began researching how to implement user login functionality in Android apps. Understood the OAuth 2.0 authorization process and attempted to apply it to the project.
+
+For the following weeks:
+- Complete the development of the login feature, implement user authorization, and ensure that the app can access HUAWEI Health data normally.
+- Register real-time data listeners and learn how to monitor and read real-time data.
+- Develop and improve the main functions of the app, including data display, data synchronization, and data analysis.
+- Optimize and refactor project code to improve code quality and maintainability.
+- Prepare project documentation, including requirements analysis, design specifications, and user manuals.
