@@ -13,7 +13,7 @@ For the following weeks:
 - Next week, please work on communication part (you can learn datastore later). You need to know the basic mechanism of communication, which you will implement later.
 - Next task: please setup HealthKit environment
 </font>
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 Update Mar 22nd:
 - Registered a developer account on the Developer Alliance and created an application, configured application information, and applied for Health Kit services in the Developer Management Console.
 
@@ -39,7 +39,7 @@ For the following weeks:
 - Register real-time data listener
 - read real-time data
 - close real-time data listener.
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 Update Mar 29th:
 - Learned the basics of Android app development, including concepts such as Activity, layout, and event handling, laying the foundation for future app development.
 - Gained a deep understanding of the TCP protocol, including aspects such as packet format, connection establishment, data transfer, and connection termination. Studied how to implement TCP communication functionality in Android apps.
@@ -53,3 +53,5 @@ For the following weeks:
 - Develop and improve the main functions of the app, including data display, data synchronization, and data analysis.
 - Optimize and refactor project code to improve code quality and maintainability.
 - Prepare project documentation, including requirements analysis, design specifications, and user manuals.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
