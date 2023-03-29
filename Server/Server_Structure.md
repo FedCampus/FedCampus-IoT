@@ -19,5 +19,5 @@
 - [*] Provision the VM
 - [*] Install Docker
 - [*] Install Portainer and setup
-- [ ] Develop the service layer
-- [ ] Decide on API
+- [ ] Develop the service layer (Not needed since MQTT will be handeled by ML)
+- [ ] Decide on API (MQTT will be used directly)
