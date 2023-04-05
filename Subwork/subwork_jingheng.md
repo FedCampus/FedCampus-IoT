@@ -54,4 +54,11 @@ For the following weeks:
 - Optimize and refactor project code to improve code quality and maintainability.
 - Prepare project documentation, including requirements analysis, design specifications, and user manuals.
 -------------------------------------------------------------------------------------------------------------------------------------------
+Update Apr 5th:
+- Found a demo given by Huawei Health Kit https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Examples/healthbasic-examplecode-0000001073728936. https://github.com/HMS-Core/hms-health-extention-demo/blob/master/README_ZH.mdIt (this one is optional since it only offers some extension functions that might not necessary for our project, just for a reference) The first URL link offers both Java and Kotlin version demos. In the README file, it already obtain (1) Login and authorization Allows users to log in to their accounts, and obtains the read and write permissions on fitness and health data, (2) Authorization cancellation Allows users to cancel account authorization, (3) Fitness and health data management Supports adding, deleting, updating, and querying authorized health and fitness data, etc. However, by following the doc given by Huawei Health KIt, we can't find the plugin called "HMS Toolkit" in the market of the plugin as they said, but this plugin is important for us to double check whether our configurations are set up like obfuscation and code signing certificate. Also, we are trying to figure out how to finish the configuration, and run our demo in both physical and vertual devices. We hope that next week we can make our app to achieve some basic functions as we expected.
 
+- For the following weeks:
+- Coorperate with Shuhao, Beilong to figure out how to combine the API calling in the demo and the UI design together to finish our own Android App.
+- Figure how can we use this app to colloborate with the server we build from Platform group
+- Finish debugging and testing
+- Prepare for the app deployment
