@@ -13,6 +13,11 @@
   - Implimented remote management
   - Finished persistant IP and FQDN setup on the VMs
   - Rekquested and obtained domain [fedcampus.eu.org](fedcampus.eu.org)
+  ### Update April 9th
+  - Setted up new mean of remote access
+  - Helpdesk framework implimented on [helpdesk](helpdesk.fedcampus.eu.org)
+  - Update public key file on ml and iot server
+  - Spun up a docker container with access to CUDA at Professor's request
 ## next step
   1. implement persistance storage (eclipse docs)
   > checked and this part should be implimented on MQTT client side
