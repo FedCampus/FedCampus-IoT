@@ -63,6 +63,25 @@ The initial prototype you can intereact with
 https://www.figma.com/proto/aXb1tHHcS1mAUa82qN9kZ7/FedCampus?node-id=2-3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=28%3A2433&show-proto-sidebar=1
 
 
+4.14
+
+Discover the demo given by Huawei Health Kit https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Examples/healthbasic-examplecode-0000001073728936
+
+<img width="1360" alt="截屏2023-04-14 07 00 35" src="https://user-images.githubusercontent.com/125537769/231902521-9790a183-cd49-4c67-bd8f-6157e6be6a13.png">
+
+
+Finishing the basic UI design features in the Android Developement.
+
+<img width="1165" alt="截屏2023-04-14 06 58 21" src="https://user-images.githubusercontent.com/125537769/231902497-40020f1b-0666-4ce6-a9b5-a5a5f6138583.png">
+
+
+
+Plan for the next step:
+
+Coorperate with Jingheng, Beilong to figure out how to combine the API calling in the demo and the UI design together to finish our own Android App. (I am currently in charge of Excercise Report)
+
+
+Figure how can we use this app to colloborate with the server we build from Platform group
 
 
 
