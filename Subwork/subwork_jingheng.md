@@ -65,3 +65,6 @@ Update Apr 5th:
 
 Update May 26th:
 - Added email validation and password length checking in Android App login page
+
+Update May 27th:
+- Finished install Fedml in terminal and run FedML in docker: https://doc.fedml.ai/starter/installation.html
