@@ -62,3 +62,6 @@ Update Apr 5th:
 - Figure how can we use this app to colloborate with the server we build from Platform group
 - Finish debugging and testing
 - Prepare for the app deployment
+
+Update May 26th:
+- Added email validation and password length checking in Android App login page
